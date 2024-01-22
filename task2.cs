@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConditionalStatement
 {
-    internal class Program
+    internal class task2
     {
         static void Main(string[] args)
         {
